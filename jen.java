@@ -1,5 +1,5 @@
 class jen {
-    public static void mian(String [] args)
+    public static void main(String [] args)
     {
         System.out.println("Hellow world");
     }
